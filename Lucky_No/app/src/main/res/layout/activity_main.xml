@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:text="@string/welcome_to_lucky_number_app"
+        android:textColor="@color/black"
+        android:fontFamily="@font/first"
+        android:textStyle="bold"
+        android:textSize="30sp"
+        android:layout_margin="30dp"
+        android:gravity="center" />
+
+    <EditText
+        android:id="@+id/fName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:autofillHints=""
+        android:hint="@string/enter_first_name"
+        android:inputType="text"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textColorHint="@color/black"
+        android:layout_margin="30dp"/>
+
+    <Button
+        android:id="@+id/submitBtn"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_margin="60dp"
+        android:text="@string/submit"
+        android:textStyle="bold"
+        android:textSize="20sp"/>
+
+</LinearLayout>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">New Project</string>
+    <string name="welcome_to_lucky_number_app">Welcome To Lucky Number App</string>
+    <string name="enter_first_name">Enter First Name</string>
+    <string name="submit">Submit</string>
+    <string name="lucky_no">Lucky No.</string>
+    <string name="congratulations">Congratulations !</string>
+    <string name="your_lucky_number_is">Your Lucky Number is :</string>
+    <string name="share_your">Share Your</string>
+    <string name="your_name">Your Name</string>
+</resources>

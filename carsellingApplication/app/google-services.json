@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "557308260361",
+    "project_id": "car-selling-application",
+    "storage_bucket": "car-selling-application.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557308260361:android:8871ad0fc0fab4168d48d8",
+        "android_client_info": {
+          "package_name": "com.example.carsellingapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDknrs8IgXKNiKrt2zNND2XM7LLduw8lWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
