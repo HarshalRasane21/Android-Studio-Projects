@@ -100,3 +100,11 @@ Project/
 └── gradle.properties (Project-wide properties)
                                # Maven build file (if applicable)
 ```
+
+## 👨‍💻 Author
+
+Developed by: Harshal Rasane
+
+📧 Email: rasaneharshal@gmail.com
+
+💼 GitHub: https://github.com/HarshalRasane21
